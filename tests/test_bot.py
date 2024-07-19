@@ -1,4 +1,5 @@
 import pytest
+import asyncio
 from telegram_bot.bot import start, handle_message
 
 
